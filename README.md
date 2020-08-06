@@ -13,4 +13,6 @@ A simple react app to track your moneytory transactions
   
 </p>
 
+Give a star 🌟 if you like it.
+
 
